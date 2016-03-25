@@ -26,6 +26,11 @@ client.search('lost', { single: true }, function (err, show) {
   // do something with show
 })
 ```
+## Test Dev
+TDD with tape
+```
+npm run test
+```
 
 ## License MIT
 
