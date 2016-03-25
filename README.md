@@ -29,7 +29,7 @@ client.search('lost', { single: true }, function (err, show) {
 
 ## License MIT
 
-Copyright (c) 2015 - Julian Duque
+Copyright (c) 2016 - Joel Gonzales
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
