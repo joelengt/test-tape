@@ -1,6 +1,6 @@
 # tv-maze
 
-A TVMaze Client for Node.js (non promised)
+A TVMaze Client for Node.js (non promised).
 
 ## Install
 
